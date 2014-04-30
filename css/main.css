@@ -1,4 +1,4 @@
-.container { margin: 60px auto; width: 70%; }
+body { margin: 60px auto; width: 70%; }
 
 nav ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li { display: inline; margin-right: 20px; }
