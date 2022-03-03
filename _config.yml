@@ -1,3 +1,5 @@
 name: Michael Bateman, NLP Software Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-modernist
